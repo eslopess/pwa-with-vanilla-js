@@ -1,40 +1,40 @@
 const container = document.querySelector(".container");
 const coffees = [
   {
-    name: "Perspiciatis",
-    image: "images/coffee1.jpg"
+    name: "TELA DE LOGIN",
+    image: "images/login.jpg"
   },
   {
-    name: "Voluptatem",
-    image: "images/coffee2.jpg"
+    name: "CheckList Automóvel",
+    image: "images/automovel.jpg"
   },
   {
-    name: "Explicabo",
-    image: "images/coffee3.jpg"
+    name: "CheckList Motocicleta",
+    image: "images/moto.jpg"
   },
   {
-    name: "Rchitecto",
-    image: "images/coffee4.jpg"
+    name: "CheckList Caminhão",
+    image: "images/caminhao.jpg"
   },
   {
-    name: " Beatae",
-    image: "images/coffee5.jpg"
+    name: " CheckList Motor Home",
+    image: "images/motorhome.jpg"
   },
   {
-    name: " Vitae",
-    image: "images/coffee6.jpg"
+    name: " Cadastro de Cliente",
+    image: "images/cliente.jpg"
   },
   {
-    name: "Inventore",
-    image: "images/coffee7.jpg"
+    name: "Cadastro de Veículo",
+    image: "images/cadastroVeiculo.jpg"
   },
   {
-    name: "Veritatis",
-    image: "images/coffee8.jpg"
+    name: "Incluir Fotos",
+    image: "images/foto.jpg"
   },
   {
-    name: "Accusantium",
-    image: "images/coffee9.jpg"
+    name: "Emissão do Laudo",
+    image: "images/laudo.jpg"
   }
 ];
 const showCoffees = () => {
