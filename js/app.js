@@ -5,8 +5,8 @@ const coffees = [
     image: "images/login.jpg"
   },
   {
-    name: "CheckList automóvel",
-    image: "images/automovel.jpg"
+    name: "CheckList Automovel",
+    image: "images/Automovel.jpg"
   },
   {
     name: "CheckList Motocicleta",
